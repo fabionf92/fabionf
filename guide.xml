@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="CNN">
+    <display-name lang="pt">CNN</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Band SP FHD">
+    <display-name lang="pt">Band SP FHD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Canal Brasil FHD">
+    <display-name lang="pt">Canal Brasil FHD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Comedy Central FHD">
+    <display-name lang="pt">Comedy Central FHD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Discovery Channel FHD">
+    <display-name lang="pt">Discovery Channel FHD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="ESPN Brasil FHD">
+    <display-name lang="pt">ESPN Brasil FHD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="ESPN FHD">
+    <display-name lang="pt">ESPN FHD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="ESPN Extra FHD">
+    <display-name lang="pt">ESPN Extra FHD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="FOX FHD">
+    <display-name lang="pt">FOX FHD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Fox Sports FHD">
+    <display-name lang="pt">Fox Sports FHD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Fox Sports 2 FHD">
+    <display-name lang="pt">Fox Sports 2 FHD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="FX FHD">
+    <display-name lang="pt">FX FHD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Globo SP FHD">
+    <display-name lang="pt">Globo SP FHD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="GloboNews FHD">
+    <display-name lang="pt">GloboNews FHD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="History FHD">
+    <display-name lang="pt">History FHD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="History 2 FHD">
+    <display-name lang="pt">History 2 FHD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="MTV FHD">
+    <display-name lang="pt">MTV FHD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Multishow FHD">
+    <display-name lang="pt">Multishow FHD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="National Geographic FHD">
+    <display-name lang="pt">National Geographic FHD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Space FHD">
+    <display-name lang="pt">Space FHD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="SporTV 3 FHD">
+    <display-name lang="pt">SporTV 3 FHD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="SporTV 2 FHD">
+    <display-name lang="pt">SporTV 2 FHD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="SporTV FHD">
+    <display-name lang="pt">SporTV FHD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TBS FHD">
+    <display-name lang="pt">TBS FHD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Telecine Premium FHD">
+    <display-name lang="pt">Telecine Premium FHD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Telecine Action FHD">
+    <display-name lang="pt">Telecine Action FHD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Telecine Touch FHD">
+    <display-name lang="pt">Telecine Touch FHD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Telecine Fun FHD">
+    <display-name lang="pt">Telecine Fun FHD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Telecine Pipoca FHD">
+    <display-name lang="pt">Telecine Pipoca FHD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Telecine Cult FHD">
+    <display-name lang="pt">Telecine Cult FHD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TNT FHD">
+    <display-name lang="pt">TNT FHD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Viva FHD">
+    <display-name lang="pt">Viva FHD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+</tv>
